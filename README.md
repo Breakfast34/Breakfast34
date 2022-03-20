@@ -2,7 +2,7 @@
 
 [![Header](https://raw.githubusercontent.com/Breakfast34/Breakfast34/main/img/headerImage.jpeg "Header")](https://web.facebook.com/groups/625748778716789/?notif_id=1644983509296251&notif_t=group_r2j_approved&ref=notif)
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> เจ๋ง
+<!-- # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> เจ๋ง -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Breakfast34&theme=dark_lover&count_private=true&column=7&margin-w=15&margin-h=15)]()
 
@@ -12,11 +12,12 @@
 I'm work work work and then work. 🤔
 
 You can follow me on, <br>
-<a href = "https://web.facebook.com/blind.vlltar" target="blank">
+<a href = "https://web.facebook.com/Breakfast.mp34/" target="blank">
+
 <img src="https://img.icons8.com/fluency/30/000000/facebook-new.png"/>
 </a>
-<a href = "https://www.instagram.com/sorenergame/?hl=en" target="blank">
-<img src="https://img.icons8.com/office/30/000000/instagram-new.png"/>
+<!-- <a href = "https://www.instagram.com/sorenergame/?hl=en" target="blank">
+<img src="https://img.icons8.com/office/30/000000/instagram-new.png"/> -->
 </a>
 
 Nice to meet you. 🙄
