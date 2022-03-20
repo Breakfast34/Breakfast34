@@ -1,12 +1,12 @@
 <div>My Name is Todsapon Nuangyim</div>
 
-[![Header](https://raw.githubusercontent.com/dudkinox/dudkinox/main/img/headerImage.jpeg "Header")](https://web.facebook.com/groups/625748778716789/?notif_id=1644983509296251&notif_t=group_r2j_approved&ref=notif)
+[![Header](https://raw.githubusercontent.com/Breakfast34/Breakfast34/main/img/headerImage.jpeg "Header")](https://web.facebook.com/groups/625748778716789/?notif_id=1644983509296251&notif_t=group_r2j_approved&ref=notif)
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> กีตาร์
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> เจ๋ง
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dudkinox&theme=dark_lover&count_private=true&column=7&margin-w=15&margin-h=15)]()
+[![trophy](https://github-profile-trophy.vercel.app/?username=Breakfast34&theme=dark_lover&count_private=true&column=7&margin-w=15&margin-h=15)]()
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dudkinox)](https://github.com/ryo-ma/github-profile-trophy) -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Breakfast34)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 🤤
 I'm work work work and then work. 🤔
@@ -23,7 +23,7 @@ Nice to meet you. 🙄
 
 <!-- <center> -->
 <!--   <div> -->
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=dudkinox&show_icons=true&theme=dark" height="170" /> -->
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=Breakfast34&show_icons=true&theme=dark" height="170" /> -->
 <!--   </div> -->
 <!-- </center> -->
 
@@ -33,8 +33,8 @@ Nice to meet you. 🙄
 
 ![เจ๋ง github stats](https://github-readme-stats.vercel.app/api?username=Breakfast34&theme=radical&show_icons=true&count_private=true)
 
-<!-- ![กีตาร์ github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dudkinox&theme=radical&count_private=true&show_icons=true) -->
+<!-- ![เจ๋ง github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Breakfast34&theme=radical&count_private=true&show_icons=true) -->
 
-![กีตาร์ Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dudkinox&theme=solarized_dark&count_private=true)
-![กีตาร์ Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dudkinox&theme=solarized_dark&count_private=true)
-![กีตาร์ Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudkinox&theme=solarized_dark&count_private=true)
+![เจ๋ง Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Breakfast34&theme=solarized_dark&count_private=true)
+![เจ๋ง Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Breakfast34&theme=solarized_dark&count_private=true)
+![เจ๋ง Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Breakfast34&theme=solarized_dark&count_private=true)
