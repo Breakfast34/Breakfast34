@@ -38,4 +38,4 @@ Nice to meet you. 🙄
 
 ![เจ๋ง Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Breakfast34&theme=solarized_dark&count_private=true)
 ![เจ๋ง Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Breakfast34&theme=solarized_dark&count_private=true)
-![เจ๋ง Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=profileBreakfast34theme=solarized_dark&count_private=true)
+![เจ๋ง Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Breakfast34&theme=solarized_dark&count_private=true)
