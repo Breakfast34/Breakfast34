@@ -4,7 +4,7 @@
 
 <!-- # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> เจ๋ง -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Breakfast34&theme=dark_lover&count_private=true&column=7&margin-w=15&margin-h=15)]()
+[![trophy](https://github-profile-trophy.vercel.app/?username=profile&theme=dark_lover&count_private=true&column=7&margin-w=15&margin-h=15)]()
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Breakfast34)](https://github.com/ryo-ma/github-profile-trophy) -->
 
@@ -24,7 +24,7 @@ Nice to meet you. 🙄
 
 <!-- <center> -->
 <!--   <div> -->
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=Breakfast34&show_icons=true&theme=dark" height="170" /> -->
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=profile&show_icons=true&theme=dark" height="170" /> -->
 <!--   </div> -->
 <!-- </center> -->
 
@@ -32,10 +32,10 @@ Nice to meet you. 🙄
 
 ---
 
-![เจ๋ง github stats](https://github-readme-stats.vercel.app/api?username=Breakfast34&theme=radical&show_icons=true&count_private=true)
+![เจ๋ง github stats](https://github-readme-stats.vercel.app/api?username=profile&theme=radical&show_icons=true&count_private=true)
 
 <!-- ![เจ๋ง github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Breakfast34&theme=radical&count_private=true&show_icons=true) -->
 
-![เจ๋ง Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Breakfast34&theme=solarized_dark&count_private=true)
-![เจ๋ง Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Breakfast34&theme=solarized_dark&count_private=true)
-![เจ๋ง Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Breakfast34&theme=solarized_dark&count_private=true)
+![เจ๋ง Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=profile&theme=solarized_dark&count_private=true)
+![เจ๋ง Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=profile&theme=solarized_dark&count_private=true)
+![เจ๋ง Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=profile&theme=solarized_dark&count_private=true)
