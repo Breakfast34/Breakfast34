@@ -13,9 +13,8 @@ I'm work work work and then work. 🤔
 
 
 
-You can follow me on, <br>
+contact, <br>
 <a href = "https://web.facebook.com/Breakfast.mp34/" target="blank">
-
 <img src="https://img.icons8.com/fluency/30/000000/facebook-new.png"/>
 </a>
 <!-- <a href = "https://www.instagram.com/sorenergame/?hl=en" target="blank">
@@ -25,6 +24,7 @@ You can follow me on, <br>
 Nice to meet you. 🙄
 
 
+<h2 align="left">Skill:</h3>
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
