@@ -1,6 +1,6 @@
 # BreakFast
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=dudkinox&theme=dark_lover&count_private=true&column=7&margin-w=15&margin-h=15)]()
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Breakfast34&theme=dark_lover&count_private=true&column=7&margin-w=15&margin-h=15)]()
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dudkinox)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 🤤 
@@ -26,9 +26,9 @@ Nice to meet you. 🙄
 --- 
 ![กีตาร์ github stats](https://github-readme-stats.vercel.app/api?username=dudkinox&theme=radical&show_icons=true&count_private=true)
 <!-- ![กีตาร์ github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dudkinox&theme=radical&count_private=true&show_icons=true) -->
-![กีตาร์ Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dudkinox&theme=solarized_dark&count_private=true)
-![กีตาร์ Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dudkinox&theme=solarized_dark&count_private=true)
-![กีตาร์ Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudkinox&theme=solarized_dark&count_private=true)
+![กีตาร์ Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Breakfast34&theme=solarized_dark&count_private=true)
+![กีตาร์ Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Breakfast34&theme=solarized_dark&count_private=true)
+![กีตาร์ Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Breakfast34&theme=solarized_dark&count_private=true)
 
 <h3 align="center">A passionate fullstack from Thailand</h3>
 
