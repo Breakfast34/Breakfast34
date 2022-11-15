@@ -26,9 +26,9 @@ Nice to meet you. 🙄
 --- 
 ![กีตาร์ github stats](https://github-readme-stats.vercel.app/api?username=dudkinox&theme=radical&show_icons=true&count_private=true)
 <!-- ![กีตาร์ github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dudkinox&theme=radical&count_private=true&show_icons=true) -->
-![กีตาร์ Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dudkinox&theme=solarized_dark&count_private=true)
-![กีตาร์ Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dudkinox&theme=solarized_dark&count_private=true)
-![กีตาร์ Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudkinox&theme=solarized_dark&count_private=true)
+![กีตาร์ Stats](https://github-profile-Breakfast34-cards.vercel.app/api/cards/repos-per-language?username=dudkinox&theme=solarized_dark&count_private=true)
+![กีตาร์ Stats](https://github-profile-Breakfast34-cards.vercel.app/api/cards/most-commit-language?username=dudkinox&theme=solarized_dark&count_private=true)
+![กีตาร์ Summary](https://github-profile-Breakfast34-cards.vercel.app/api/cards/profile-details?username=dudkinox&theme=solarized_dark&count_private=true)
 
 <h3 align="center">A passionate fullstack from Thailand</h3>
 
