@@ -22,7 +22,7 @@ Nice to meet you. 🙄
 
 ### 📊 GitHub Stats: 
 --- 
-![BreakFast github stats](https://github-readme-stats.vercel.app/api?username=dudkinox&theme=radical&show_icons=true&count_private=true)
+![BreakFast github stats](https://github-readme-stats.vercel.app/api?username=Breakfast34&theme=radical&show_icons=true&count_private=true)
 
 ![BreakFast Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Breakfast34&theme=solarized_dark&count_private=true)
 ![BreakFast Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Breakfast34&theme=solarized_dark&count_private=true)
